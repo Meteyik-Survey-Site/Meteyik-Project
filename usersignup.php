@@ -7,7 +7,7 @@ include_once '../db/dbh.inc.php';
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="Natan Mekebib">
+    <meta name="author" content="Keti Yohannes">
     <meta name="description" content="Fill out surveys get rewards">
     <meta name="keywords" content="Survey Form Research meteyik mtk Rewards user signup">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
